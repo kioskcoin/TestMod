@@ -2,7 +2,7 @@
 {
   "modid": "TestMod",
   "name": "Test Mod",
-  "description": "Mod for Testing. Expect delays.",
+  "description": "Mod for testing. Expect delays.",
   "version": "1.0",
   "mcversion": "1.7.10",
   "url": "",
@@ -10,7 +10,7 @@
   "authorList": [
     "kioskcoin"
   ],
-  "credits": "",
+  "credits": "need more caffeine",
   "logoFile": "",
   "screenshots": [
   ],
